@@ -1,0 +1,50 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#description {
+  font-size: 16px;
+}
+
+.review__title {
+  color: #e45858;
+}
+
+.latest__title {
+  color: #96e876;
+}
+
+h1 {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 700;
+  font-size: 44px;
+}
+
+h2 {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.subtitle {
+  font-size: 16px;
+  color: #24ab26;
+}
+
+.wrapper__form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.wrapper__input {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper__input span {
+  font-size: 16px;
+}
