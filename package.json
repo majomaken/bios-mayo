@@ -1,0 +1,23 @@
+{
+  "name": "bios-mayo",
+  "version": "1.0.0",
+  "description": "This is a full stack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "full-stack",
+    "bios",
+    "javascript"
+  ],
+  "author": "Miguel Jimenez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
